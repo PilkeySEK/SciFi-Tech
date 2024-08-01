@@ -1,5 +1,5 @@
 execute if score stopAll tmp matches 1 run return 1
-execute if score .temp playerheat matches 50.. run tellraw @a[tag=is_dev] ["",{"score":{"objective":"id","name":".temp"}}]
+# execute if score .temp playerheat matches 50.. run tellraw @a[tag=is_dev] ["",{"score":{"objective":"id","name":".temp"}}]
 
 execute if score heat stats > max_heat config run return run function tech:main_raycast/loop_warning
 

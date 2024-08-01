@@ -1,0 +1,3 @@
+tellraw @s [{"text": "[", "color": "gray"}, {"text": "ᴍᴀɴᴜᴀʟ", "color": "gold"}, {"text": "]", "color": "gray"}, {"text":" >> ", "color": "white"}, {"text": "Energizer", "color": "blue"}]
+
+tellraw @s [{"color":"aqua","text":"- "},{"color":"gold","text":"General Info"},{"text":"\n * "},{"color":"light_purple","text":"The Energizer powers redstone if\n a laser is going through it.\n"}," * ",{"color":"light_purple","text":"Doesn't allow lasers through it.\n"},"- ",{"color":"gold","text":"Tips"},{"text":"\n * "},{"color":"light_purple","text":"VERY useful with logic gates.\n"}," * ",{"color":"light_purple","text":"Can be used well with Conditionals."}]

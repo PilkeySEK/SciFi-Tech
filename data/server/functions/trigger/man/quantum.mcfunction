@@ -1,0 +1,3 @@
+tellraw @s [{"text": "[", "color": "gray"}, {"text": "ᴍᴀɴᴜᴀʟ", "color": "gold"}, {"text": "]", "color": "gray"}, {"text":" >> ", "color": "white"}, {"text": "Quantum Tunnel", "color": "blue"}]
+
+tellraw @s [{"color":"aqua","text":"- "},{"color":"gold","text":"General Info"},{"text":"\n * "},{"color":"light_purple","text":"Creates a invisible tunnel\n that goes through every block.\n"}," * ",{"color":"light_purple","text":"Will not until its raycast\n is done, or it touches another\n quantum tunnel\n"},"- ",{"color":"gold","text":"Tips"},{"text":"\n * "},{"color":"light_purple","text":"idk man im not a robot"}]

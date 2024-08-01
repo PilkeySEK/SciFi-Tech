@@ -1,0 +1,4 @@
+# still no good name lol
+tellraw @s [{"text": "[", "color": "gray"}, {"text": "ᴍᴀɴᴜᴀʟ", "color": "gold"}, {"text": "]", "color": "gray"}, {"text":" >> ", "color": "white"}, {"text": "-Insert good name here-", "color": "blue"}]
+
+tellraw @s [{"color":"aqua","text":"- "},{"color":"gold","text":"General Info"},{"text":"\n * "},{"color":"light_purple","text":"When closed, the closed side\n will not let lasers through.\n"}," * ",{"color":"light_purple","text":"It's a lantern and lever\n with extra steps.\n"},"- ",{"color":"gold","text":"Tips"},{"text":"\n * "},{"color":"light_purple","text":"idk man im not a robot"}]

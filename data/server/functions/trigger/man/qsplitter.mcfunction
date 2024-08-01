@@ -1,0 +1,3 @@
+tellraw @s [{"text": "[", "color": "gray"}, {"text": "ᴍᴀɴᴜᴀʟ", "color": "gold"}, {"text": "]", "color": "gray"}, {"text":" >> ", "color": "white"}, {"text": "Quantum Splitter Tunnel", "color": "blue"}]
+
+tellraw @s [{"color":"aqua","text":"- "},{"color":"gold","text":"General Info"},{"text":"\n * "},{"color":"light_purple","text":"Same as Quantum tunnel,\n but splits a normal laser\n forward too.\n"},"- ",{"color":"gold","text":"Tips"},{"text":"\n * "},{"color":"light_purple","text":"idk man im not a robot"}]

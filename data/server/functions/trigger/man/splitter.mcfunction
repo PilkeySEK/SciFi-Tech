@@ -1,0 +1,3 @@
+tellraw @s [{"text": "[", "color": "gray"}, {"text": "ᴍᴀɴᴜᴀʟ", "color": "gold"}, {"text": "]", "color": "gray"}, {"text":" >> ", "color": "white"}, {"text": "Splitter", "color": "blue"}]
+
+tellraw @s [{"color":"aqua","text":"- "},{"color":"gold","text":"General Info"},{"text":"\n * "},{"color":"light_purple","text":"The Splitter splits lasers\n"}," * ",{"color":"light_purple","text":"It doesn't stop the original\n laser from passing through it.\n"},"- ",{"color":"gold","text":"Tips"},{"text":"\n * "},{"color":"light_purple","text":"Useful when your Reactor is full."}]

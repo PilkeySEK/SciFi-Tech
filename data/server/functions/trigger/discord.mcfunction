@@ -1,0 +1,1 @@
+tellraw @s [{"text": "Join the Sci-Fi Tech discord server >:D ", "color": "dark_green"}, {"text": "[Click here to join]", "color": "dark_purple", "clickEvent": {"action": "open_url", "value": "https://discord.gg/vDtetnScnm"}, "hoverEvent": {"action": "show_text", "contents": "§2Click here§r"}}]

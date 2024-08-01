@@ -1,0 +1,1 @@
+execute unless entity @e[tag=ngate, type=marker, distance=...5] run function tech:entity/ngate/register

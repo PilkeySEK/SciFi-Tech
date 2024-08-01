@@ -1,0 +1,11 @@
+{
+    "values": [
+        "minecraft:obsidian",
+        "minecraft:barrier",
+        "sea_lantern",
+        "chest",
+        "hopper",
+        "barrel",
+        "decorated_pot"
+    ]
+}
